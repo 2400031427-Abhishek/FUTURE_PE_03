@@ -1,0 +1,7 @@
+# INTERNAL LINKS
+
+1. Link homepage to membership page.
+
+2. Link blog to services page.
+
+3. Link CTA to contact page.

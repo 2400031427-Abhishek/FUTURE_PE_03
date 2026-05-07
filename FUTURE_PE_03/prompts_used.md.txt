@@ -1,0 +1,10 @@
+# PROMPTS USED
+
+## Prompt 1
+Create SEO blog outlines for a gym website.
+
+## Prompt 2
+Write SEO-friendly fitness blog content.
+
+## Prompt 3
+Generate SEO keywords for a gym business.
